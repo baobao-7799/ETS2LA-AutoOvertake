@@ -1,0 +1,8 @@
+# 构建产物与引导缓存
+dist/
+.bootstrap/*.dll
+.bootstrap/*.exe
+
+# 本机下载脚本（历史遗留，非仓库内容）
+dl-sdk*.js
+dl-csc.js
